@@ -73,4 +73,3 @@ pip install jax jaxlib numpy flax jax-sysid jaxopt qpax casadi matplotlib scipy 
 
 - Please refer to https://github.com/merlresearch/pycvxset for installation of pycvxset. Functions from this package are used for polytope operations.
 
-# Concurrent_qLPV_tight
